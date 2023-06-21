@@ -129,6 +129,8 @@ p {
     text-align: center;
   }
   .divImagenes {
+    gap: 25px;
+    padding: 25px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
